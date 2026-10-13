@@ -1,0 +1,646 @@
+[
+  {
+    "id": "kam",
+    "title": "Art worth arguing about",
+    "desc": "Pick one work you love and one you do not get. Trade theories before reading the labels.",
+    "tags": [
+      "Artsy",
+      "Smart/Curious",
+      "Chill",
+      "Good with Leslie"
+    ],
+    "where": "Krannert Art Museum · campus",
+    "time": "Tue–Fri 10–5; Thu until 8 during classes; Sat 10–4. Closed Sunday.",
+    "cost": "Free",
+    "url": "https://new.kam.illinois.edu/visit/plan-visit",
+    "note": "",
+    "kind": "flex",
+    "sh": false
+  },
+  {
+    "id": "pottery",
+    "title": "Make a mug with personality",
+    "desc": "Paint different versions of the same idea. A tiny inside joke can become an actual object.",
+    "tags": [
+      "Artsy",
+      "Chill",
+      "Funny/Fun",
+      "Good with Leslie",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "The Pottery Place · Champaign",
+    "time": "Flexible · confirm studio hours",
+    "cost": "Paid · piece-dependent",
+    "url": "https://potteryplacechampaign.com/faq_category/how-it-works/",
+    "note": "Ask about firing and pickup timing before starting; pieces may not be ready before you leave.",
+    "kind": "flex",
+    "sh": false
+  },
+  {
+    "id": "boulder",
+    "title": "Solve a wall together",
+    "desc": "Bouldering is a puzzle you solve with your whole body. Try easy routes, then cheer each other through one harder move.",
+    "tags": [
+      "Active",
+      "Funny/Fun",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "Urbana Boulders · 1502 N Cunningham",
+    "time": "Weekdays 10–10; weekends 10–9",
+    "cost": "Day pass + optional rentals",
+    "url": "https://www.urbanaboulders.com/",
+    "note": "Ages 10+ welcome; under 14 needs a grown-up. Complete the required waiver; check guardian rules for minors.",
+    "kind": "flex",
+    "sh": true
+  },
+  {
+    "id": "boneyard",
+    "title": "Climb, then get a snack",
+    "desc": "The downtown Champaign location makes a satisfying active start before books, games or food.",
+    "tags": [
+      "Active",
+      "Funny/Fun",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "Boneyard Boulders · 119 E University",
+    "time": "Daily noon–10",
+    "cost": "Day pass + optional rentals",
+    "url": "https://www.urbanaboulders.com/",
+    "note": "Check first-visit and guardian waiver requirements.",
+    "kind": "flex",
+    "sh": true
+  },
+  {
+    "id": "escape",
+    "title": "Become the puzzle-solving team",
+    "desc": "Immersive rooms, hidden clues and a shared mission. Let everyone be good at a different part.",
+    "tags": [
+      "Smart/Curious",
+      "Funny/Fun",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "CU Adventures · downtown Urbana",
+    "time": "Reservation required · choose an available slot",
+    "cost": "Paid · room-dependent",
+    "url": "https://cuadventures.com/",
+    "note": "Check room player minimums: Forest of Fables is 4–8 players, recommended 13+, with a live actor. Pick a room that fits your group.",
+    "kind": "flex",
+    "sh": true
+  },
+  {
+    "id": "brainstorm",
+    "title": "Try an art heist",
+    "desc": "Abstract Larceny puts an artsy twist on team puzzles. Compare room themes before booking.",
+    "tags": [
+      "Artsy",
+      "Smart/Curious",
+      "Funny/Fun",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "Brainstorm Escapes · 61 E University",
+    "time": "Fri starts 3–9; Sat 11–11; Sun noon–6:30. Mon–Thu closed.",
+    "cost": "$20 ages 6–17; $25 adults",
+    "url": "https://brainstormescapes.com/",
+    "note": "Book ahead; confirm the selected room’s group size and adult accompaniment policy.",
+    "kind": "flex",
+    "sh": true
+  },
+  {
+    "id": "skate",
+    "title": "Roll into the evening",
+    "desc": "Music, movement and a little friendly chaos. Nobody has to be an expert to have a good night.",
+    "tags": [
+      "Active",
+      "Funny/Fun",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "Skateland · 208 W Curtis, Savoy",
+    "time": "Wed Oct 14 6:30–8:30; Fri 7–10; Sat 2–5 & 5–9; Sun 2–5",
+    "cost": "Admission + skate rental",
+    "url": "https://skatelandsavoy.com/",
+    "note": "Published recurring public-session hours checked Oct 13. Laser tag is open during public sessions.",
+    "kind": "flex",
+    "sh": true
+  },
+  {
+    "id": "ice",
+    "title": "Swap wheels for blades",
+    "desc": "A public ice-skating session is a good change of pace. Pick a session from the arena calendar first.",
+    "tags": [
+      "Active",
+      "Funny/Fun",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "UI Ice Arena · campus",
+    "time": "Schedule needed · Oct 14 session not verified",
+    "cost": "Admission + rental",
+    "url": "https://campusrec.illinois.edu/facilities/ice-arena",
+    "note": "Community session access and exact times must be checked; do not assume the earlier chat’s Wednesday time.",
+    "kind": "flex",
+    "sh": true
+  },
+  {
+    "id": "books",
+    "title": "The ridiculous book hunt",
+    "desc": "Give everyone a mission: weirdest cover, a book for someone else, or a title that sounds like your life right now.",
+    "tags": [
+      "Chill",
+      "Smart/Curious",
+      "Funny/Fun",
+      "Good with Leslie",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "Jane Addams Book Shop · downtown Champaign",
+    "time": "Flexible · confirm current hours",
+    "cost": "Browse free · books extra",
+    "url": "https://www.janeaddamsbooks.com/",
+    "note": "The upper floors involve stairs; check access needs before visiting.",
+    "kind": "flex",
+    "sh": false
+  },
+  {
+    "id": "literary",
+    "title": "Books + a café pause",
+    "desc": "Browse The Literary, pick a book, then trade first-page reviews over something to eat or drink.",
+    "tags": [
+      "Chill",
+      "Food",
+      "Smart/Curious",
+      "Good with Leslie",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "The Literary · downtown Champaign",
+    "time": "Flexible · check current café hours",
+    "cost": "Books / food extra",
+    "url": "https://literarybookbar.com/",
+    "note": "",
+    "kind": "flex",
+    "sh": false
+  },
+  {
+    "id": "cats",
+    "title": "Cats, snacks, board games",
+    "desc": "Choose a game with room for conversation. Add a cat-lounge visit if everybody wants one.",
+    "tags": [
+      "Chill",
+      "Funny/Fun",
+      "Food",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "The Scratching Post · 114 E University",
+    "time": "Wed–Sun 2–10; closed Mon–Tue",
+    "cost": "Paid lounge / café; check game fee",
+    "url": "https://scratchingpostcu.com/faq/",
+    "note": "Reserve the cat lounge ahead. Under 7 cannot enter; ages 7–12 need an adult and have limited spots.",
+    "kind": "flex",
+    "sh": true
+  },
+  {
+    "id": "space",
+    "title": "A night under the dome",
+    "desc": "Trade the phone screen for a planetarium sky. Choose the actual show together from the ticket calendar.",
+    "tags": [
+      "Smart/Curious",
+      "Chill",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "Staerkel Planetarium · Parkland",
+    "time": "Show booking needed · Friday titles/times not confirmed",
+    "cost": "Show-dependent",
+    "url": "https://www.parkland.edu/Audience/Community-Business/Parkland-Presents/Planetarium",
+    "note": "The earlier Friday Prairie Skies / Violent Universe itinerary is not treated as confirmed.",
+    "kind": "flex",
+    "sh": true
+  },
+  {
+    "id": "hoops",
+    "title": "A low-stakes game of HORSE",
+    "desc": "Bring a ball, make up one ridiculous shot each, and keep the competition friendly.",
+    "tags": [
+      "Active",
+      "Outdoors",
+      "Funny/Fun",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "King Park · 915 W Wascher, Urbana",
+    "time": "Flexible · daylight and posted park rules",
+    "cost": "Free",
+    "url": "https://www.urbanaparks.org/location/king-park",
+    "note": "Outdoor basketball is listed. Check current conditions; park improvements are being planned.",
+    "kind": "flex",
+    "sh": true
+  },
+  {
+    "id": "meadow",
+    "title": "Sculpture + prairie photo walk",
+    "desc": "Find three shapes, colors or scenes worth turning into art. Sketch, photograph, or just wander.",
+    "tags": [
+      "Artsy",
+      "Outdoors",
+      "Active",
+      "Chill",
+      "Good with Leslie",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "Meadowbrook Park · Urbana",
+    "time": "Flexible · daylight; follow posted hours",
+    "cost": "Free",
+    "url": "https://www.urbanaparks.org/locations",
+    "note": "",
+    "kind": "flex",
+    "sh": false
+  },
+  {
+    "id": "japan",
+    "title": "A quiet garden hour",
+    "desc": "Walk slowly, bring a sketchbook, and leave room for a conversation—or no conversation at all.",
+    "tags": [
+      "Artsy",
+      "Outdoors",
+      "Chill",
+      "Smart/Curious",
+      "Good with Leslie"
+    ],
+    "where": "Japan House gardens · south campus",
+    "time": "Gardens dawn–dusk",
+    "cost": "Outdoor walk free",
+    "url": "https://japanhouse.illinois.edu/visit",
+    "note": "Indoor tours and tea ceremonies require appointments; the garden walk is independent.",
+    "kind": "flex",
+    "sh": false
+  },
+  {
+    "id": "arboretum",
+    "title": "Make a tiny fall field guide",
+    "desc": "Pair the Arboretum and Idea Garden with Japan House. Collect photos of leaves, textures and colors, not plants.",
+    "tags": [
+      "Artsy",
+      "Outdoors",
+      "Chill",
+      "Good with Leslie",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "UI Arboretum · south campus",
+    "time": "Flexible · daylight; check visitor guidance",
+    "cost": "Outdoor walk",
+    "url": "https://arboretum.illinois.edu/",
+    "note": "",
+    "kind": "flex",
+    "sh": false
+  },
+  {
+    "id": "allerton",
+    "title": "The sculpture-in-the-woods day",
+    "desc": "Take a longer walk through gardens and woods. Make your own award for the strangest sculpture.",
+    "tags": [
+      "Artsy",
+      "Outdoors",
+      "Active",
+      "Smart/Curious",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "Allerton · Monticello · plan a drive",
+    "time": "Daily 8 am–sunset",
+    "cost": "Free · donations welcome",
+    "url": "https://allerton.illinois.edu/plan-your-visit/",
+    "note": "Arrange a round-trip ride. Some routes are uneven; download a trail map.",
+    "kind": "flex",
+    "sh": true
+  },
+  {
+    "id": "woods",
+    "title": "Boardwalk reset",
+    "desc": "Try Busey Woods for a quieter fall walk. Make a bird-photo challenge and let the walk set the pace.",
+    "tags": [
+      "Outdoors",
+      "Chill",
+      "Smart/Curious",
+      "Good with Leslie",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "Busey Woods / Anita Purves · Urbana",
+    "time": "Flexible · daylight; confirm nature-center hours",
+    "cost": "Park walk free",
+    "url": "https://www.urbanaparks.org/locations",
+    "note": "",
+    "kind": "flex",
+    "sh": false
+  },
+  {
+    "id": "spurlock",
+    "title": "A world-culture wander",
+    "desc": "Choose an object you would put in a story. Explain your choice to the others.",
+    "tags": [
+      "Smart/Curious",
+      "Artsy",
+      "Chill",
+      "Good with Leslie",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "Spurlock · 600 S Gregory",
+    "time": "Tue noon–5; Wed–Fri 9–5; Sat 10–4; Sun noon–4",
+    "cost": "Free · suggested donation",
+    "url": "https://www.spurlock.illinois.edu/visit/",
+    "note": "Museum asks that children be accompanied by an adult.",
+    "kind": "flex",
+    "sh": false
+  },
+  {
+    "id": "giertz",
+    "title": "Underpinnings: look below the surface",
+    "desc": "Explore fiber, ceramics, prints and mixed media. Which artwork makes you want to try a new material?",
+    "tags": [
+      "Artsy",
+      "Smart/Curious",
+      "Chill",
+      "Good with Leslie"
+    ],
+    "where": "Giertz Gallery · Parkland",
+    "time": "Through Nov 7. Mon–Wed 10–5; Thu 10–7; Sat noon–3. No Fri/Sun hours listed.",
+    "cost": "Free",
+    "url": "https://connect.parkland.edu/News/ArtMID/10011/ArticleID/1384",
+    "note": "Exhibition dates and fall hours verified on Parkland’s announcement.",
+    "kind": "flex",
+    "sh": false
+  },
+  {
+    "id": "orchard",
+    "title": "The cider-and-pumpkins stop",
+    "desc": "Get something from the bakery, choose a pumpkin, and take the kind of fall photos you will laugh about later.",
+    "tags": [
+      "Outdoors",
+      "Food",
+      "Funny/Fun",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "Curtis Orchard · Champaign",
+    "time": "Seasonal visit · check hours and activity availability",
+    "cost": "Food / activities priced separately",
+    "url": "https://www.curtisorchard.com/",
+    "note": "A relaxed fall stop; do not assume every attraction is open on weekdays.",
+    "kind": "flex",
+    "sh": true
+  },
+  {
+    "id": "farm",
+    "title": "Goats + a farm snack",
+    "desc": "Visit during open farm hours for paths, goats and something to eat. Keep restaurant service hours in mind.",
+    "tags": [
+      "Outdoors",
+      "Food",
+      "Chill",
+      "Good with Leslie",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "Prairie Fruits Farm · north Champaign",
+    "time": "Tue 4–9; Wed–Fri dinner 4–9; Sat 9–9; Sun 9–4",
+    "cost": "Food / booked experiences extra",
+    "url": "https://www.prairiefruits.com/visit-the-farm",
+    "note": "Seasonal hours. Farm is cashless; confirm any tour separately.",
+    "kind": "flex",
+    "sh": false
+  },
+  {
+    "id": "friendshop",
+    "title": "The small-budget book stop",
+    "desc": "Give everyone a small book budget. See who finds the best surprise.",
+    "tags": [
+      "Chill",
+      "Smart/Curious",
+      "Good with Leslie"
+    ],
+    "where": "FriendShop · Champaign Public Library",
+    "time": "Wed–Sun 1–4",
+    "cost": "Books extra",
+    "url": "https://champaign.org/events",
+    "note": "Members’ half-price sale is listed Oct 16–18; membership is $10.",
+    "kind": "flex",
+    "sh": false
+  },
+  {
+    "id": "vr",
+    "title": "Try a shared virtual adventure",
+    "desc": "Compare VR experiences at JJ’s FunHouse and choose something everyone is comfortable trying.",
+    "tags": [
+      "Funny/Fun",
+      "Smart/Curious",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "JJ’s FunHouse · CU area",
+    "time": "Reservation / current hours needed",
+    "cost": "Paid",
+    "url": "https://jjsfunhouse.com/",
+    "note": "Operator advertises ages 11+. Check game availability and minor participation requirements.",
+    "kind": "flex",
+    "sh": true
+  },
+  {
+    "id": "picnic",
+    "title": "Bring-your-own game picnic",
+    "desc": "Take a card game, snacks and a blanket to a park. A three-person game beats scrolling in parallel.",
+    "tags": [
+      "Outdoors",
+      "Food",
+      "Chill",
+      "Funny/Fun",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "Meadowbrook or a nearby park",
+    "time": "Flexible · daylight and dry weather",
+    "cost": "Free + snacks",
+    "url": "https://www.urbanaparks.org/locations",
+    "note": "",
+    "kind": "flex",
+    "sh": true
+  },
+  {
+    "id": "artist",
+    "title": "Meet artist Anida Yoeu Ali",
+    "desc": "Ask a working artist about a creative choice or a medium you want to try.",
+    "tags": [
+      "Artsy",
+      "Smart/Curious",
+      "Good with Leslie"
+    ],
+    "where": "Krannert Art Museum",
+    "time": "Thu Oct 15 · 1–2 pm",
+    "cost": "Free",
+    "url": "https://calendars.uofi.uic.edu/detail/7?eventId=33564768",
+    "note": "",
+    "kind": "event",
+    "sh": false
+  },
+  {
+    "id": "jazz",
+    "title": "Live jazz, no ticket needed",
+    "desc": "Hear the Kyle Swan Quartet in Krannert’s lobby. A good first live-music stop for the whole group.",
+    "tags": [
+      "Artsy",
+      "Chill",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "Krannert Center · Stage 5",
+    "time": "Thu Oct 15 · 5:30 pm",
+    "cost": "Free",
+    "url": "https://calendars.illinois.edu/detail/6261?eventId=33562307",
+    "note": "Uncorked is a concert series; teens can enjoy the music without buying alcohol.",
+    "kind": "event",
+    "sh": true
+  },
+  {
+    "id": "niladri",
+    "title": "The Space Between the Notes",
+    "desc": "Try a new musical world with sitar, Zitar and ensemble led by Niladri Kumaar.",
+    "tags": [
+      "Artsy",
+      "Smart/Curious",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "Krannert · Foellinger Great Hall",
+    "time": "Thu Oct 15 · 7:30 pm",
+    "cost": "Youth ticket listed $10",
+    "url": "https://krannertcenter.com/events/niladri-kumaar-presents-space-between-notes-honoring-zakir-hussain",
+    "note": "Book tickets; confirm fees and availability.",
+    "kind": "event",
+    "sh": true
+  },
+  {
+    "id": "dance",
+    "title": "October Dance",
+    "desc": "For the athletic + artsy combination: watch how physical skill turns into an idea.",
+    "tags": [
+      "Artsy",
+      "Active",
+      "Smart/Curious",
+      "Good with Leslie"
+    ],
+    "where": "Krannert · Colwell Playhouse",
+    "time": "Thu–Sat Oct 15–17 · 7:30 pm each night",
+    "cost": "Youth ticket listed $10",
+    "url": "https://krannertcenter.com/events/dance-illinois-october-dance",
+    "note": "Choose one night and book tickets.",
+    "kind": "event",
+    "sh": false
+  },
+  {
+    "id": "performance",
+    "title": "Performance for Non-Dancers",
+    "desc": "Turn ordinary gestures into a performance. You do not need a dance background.",
+    "tags": [
+      "Artsy",
+      "Active",
+      "Funny/Fun",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "Krannert · Orchestra Rehearsal Room",
+    "time": "Fri Oct 16 · 3 pm",
+    "cost": "Free · open to all",
+    "url": "https://krannertcenter.com/events/improvisers-exchange-workshop-anida-yoeu-ali-performance-non-dancers",
+    "note": "",
+    "kind": "event",
+    "sh": false
+  },
+  {
+    "id": "maker",
+    "title": "Make something at Douglass",
+    "desc": "Explore 3D printing and other creative tools. Bring an idea; ask staff what is possible in one visit.",
+    "tags": [
+      "Artsy",
+      "Smart/Curious",
+      "Funny/Fun",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "Douglass Branch Library · Champaign",
+    "time": "Sat Oct 17 · noon–3 pm",
+    "cost": "Free",
+    "url": "https://champaign.org/events",
+    "note": "Walk-ins welcome; reserve specific equipment if needed. Printing may take longer than your visit.",
+    "kind": "event",
+    "sh": true
+  },
+  {
+    "id": "film",
+    "title": "A film that starts a conversation",
+    "desc": "If Hafez Wrote a Haiku for Cowboys connects lives across Iran, Japan and the US.",
+    "tags": [
+      "Artsy",
+      "Smart/Curious",
+      "Chill",
+      "Good with Leslie"
+    ],
+    "where": "Spurlock Museum",
+    "time": "Sat Oct 17 · 1 pm",
+    "cost": "Free · open to all",
+    "url": "https://calendars.illinois.edu/detail/7087?eventId=33564702",
+    "note": "Film is 115 minutes with a discussion afterward. This overlaps the makerspace: choose one.",
+    "kind": "event",
+    "sh": false
+  },
+  {
+    "id": "market",
+    "title": "Saturday breakfast, outside",
+    "desc": "Choose a food stop, browse makers, and let everyone nominate one interesting find.",
+    "tags": [
+      "Outdoors",
+      "Food",
+      "Artsy",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "Market at the Square · Illinois & Vine",
+    "time": "Sat Oct 17 · 7 am–noon",
+    "cost": "Free entry · purchases extra",
+    "url": "https://www.urbanail.gov/community-development-services/page/market-square",
+    "note": "Date follows the official May–October Saturday schedule; rain or shine.",
+    "kind": "event",
+    "sh": true
+  },
+  {
+    "id": "celebrate",
+    "title": "The Sunday goat celebration",
+    "desc": "Costumed goats, local makers, music and food. Come hungry and give yourselves room to wander.",
+    "tags": [
+      "Outdoors",
+      "Food",
+      "Funny/Fun",
+      "Good for Sofia + Shiloh",
+      "Good with Leslie"
+    ],
+    "where": "Prairie Fruits · 4410 N Lincoln",
+    "time": "Sun Oct 18 · 10 am–2 pm",
+    "cost": "Free admission · food extra",
+    "url": "https://www.prairiefruits.com/event-details/fall-farm-celebration",
+    "note": "Goat parades 11 am & 1 pm. Separate 1:30 pm goat hike has limited spots; book it separately.",
+    "kind": "event",
+    "sh": true
+  },
+  {
+    "id": "spanish",
+    "title": "Exoplanets—in Spanish",
+    "desc": "Beyond the Sun explores other worlds under the planetarium dome. Choose this if a Spanish-language show sounds good.",
+    "tags": [
+      "Smart/Curious",
+      "Chill",
+      "Good for Sofia + Shiloh"
+    ],
+    "where": "Staerkel Planetarium · Parkland",
+    "time": "Sat Oct 17 · 4:30 pm",
+    "cost": "$4 per show",
+    "url": "https://connect.parkland.edu/News/ArtMID/10011/ArticleID/1393",
+    "note": "Spanish-language presentation; tickets online or at the door 30 minutes before.",
+    "kind": "event",
+    "sh": true
+  }
+]
